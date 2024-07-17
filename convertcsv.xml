@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <A>Faculty </A>
+    <B>Courses</B>
+    <C>Department</C>
+    <D>Professor </D>
+    <E>Student </E>
+    <F>has_Boss</F>
+    <G>has_Professor</G>
+    <H>has_student</H>
+    <I>has_Supervisor</I>
+    <J>Register</J>
+    <K>Register_By</K>
+    <L>Teach</L>
+    <M> Name  </M>
+    <N>Code</N>
+    <O>Age</O>
+    <P>Course_Name   </P>
+    <Q>Semester</Q>
+    <R>Student ID</R>
+    <S>Type </S>
+  </row>
+  <row>
+    <A>Computer_Science</A>
+    <B>Semantic Web</B>
+    <C>CS</C>
+    <D>Professor_1</D>
+    <E>Student Mais ,  Noor ,  mouhmad</E>
+    <F>have</F>
+    <G>Oğuzhan MENEMENCİOĞLU</G>
+    <H>Student 1 ,  3 ,  4</H>
+    <I>Student9</I>
+    <J> New student ,  New student ,  New student</J>
+    <K>Student 1 ,  3 ,  4</K>
+    <L>Oğuzhan MENEMENCİOĞLU</L>
+    <M>Mais Alahmidi</M>
+    <N>CME728</N>
+    <O>24,26,26</O>
+    <P>Semantic Web</P>
+    <Q>semster 2 / 2022 - 2023</Q>
+    <R>2128150042</R>
+    <S>cs</S>
+  </row>
+  <row>
+    <A>Computer_Science</A>
+    <B>Internt of things </B>
+    <C>CS</C>
+    <D>Professor_2</D>
+    <E>student Mais , Noor , Saja , Mohmad</E>
+    <F>have</F>
+    <G>Üyesi İsa AVCIU</G>
+    <H>student 1,2 ,3, 4</H>
+    <I>Student6</I>
+    <J>New student,New student ,old student, New student</J>
+    <K>student 1,2 ,3, 4</K>
+    <L>Üyesi İsa AVCIU</L>
+    <M>Noor Alhuda</M>
+    <N>CME727</N>
+    <O>24,26,26</O>
+    <P>Internt of things </P>
+    <Q>semster 2 / 2022 - 2023</Q>
+    <R>2128150013</R>
+    <S>cs</S>
+  </row>
+  <row>
+    <A>Information_Seurity</A>
+    <B>information and security </B>
+    <C>IS</C>
+    <D>Professor_3</D>
+    <E>student  mais , Noor</E>
+    <F>have</F>
+    <G>Adib HABBAL</G>
+    <H>student 1, 3</H>
+    <I>Student11,12</I>
+    <J> New student, New student</J>
+    <K>student 1, 3</K>
+    <L>Adib HABBAL</L>
+    <M>saja Ahmad</M>
+    <N>BSM711</N>
+    <O>24,35,26</O>
+    <P>information and security </P>
+    <Q>semster 3 / 2022 - 2023</Q>
+    <R>2128150022</R>
+    <S>it</S>
+  </row>
+  <row>
+    <A>Computer_Science</A>
+    <B>Managament of Innovative Projects</B>
+    <C>CS</C>
+    <D>Professor_4</D>
+    <E>student mais , Noor , Mouhmad </E>
+    <F>have</F>
+    <G>Omar DAKKAK</G>
+    <H>student 1 , 2 , 4</H>
+    <I>Student 8 ,6,4</I>
+    <J> New student ,Old student , New student</J>
+    <K>student 1 , 2 , 4</K>
+    <L>Omar DAKKAK</L>
+    <M>Mouhmad</M>
+    <N>CME725</N>
+    <O>24,26,26</O>
+    <P>Managament of Innovative Projects</P>
+    <Q></Q>
+    <R>2128150042</R>
+    <S>cs</S>
+  </row>
+  <row>
+    <A>Computer_Science</A>
+    <B>M. Sc. Seminar</B>
+    <C>CS</C>
+    <D>Professor_5</D>
+    <E>Student Mais ,  Noor ,  mouhmad</E>
+    <F>have</F>
+    <G>Nehad T.A. RAMAHA</G>
+    <H>Student 1</H>
+    <I>Student1</I>
+    <J> New student</J>
+    <K>Student 1</K>
+    <L>Nehad T.A. RAMAHA</L>
+    <M>Mais Alahmidi</M>
+    <N>CME797</N>
+    <O>24</O>
+    <P>M. Sc. Seminar</P>
+    <Q>semster 2 / 2022 - 2023</Q>
+    <R>2128150042</R>
+    <S>cs</S>
+  </row>
+</root>
